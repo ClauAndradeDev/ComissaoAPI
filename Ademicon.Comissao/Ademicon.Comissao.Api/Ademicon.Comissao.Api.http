@@ -1,0 +1,6 @@
+@Ademicon.Comissao.Api_HostAddress = http://localhost:5127
+
+GET {{Ademicon.Comissao.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
