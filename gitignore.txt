@@ -390,4 +390,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Outras Pastas
-upload/
+**/[upload/
