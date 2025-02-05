@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj": {}
+    "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj": {}
   },
   "projects": {
-    "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj",
         "projectName": "Ademicon.Comissao.Models",
-        "projectPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Models\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj": {
+    "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj",
+        "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj",
         "projectName": "Ademicon.Comissao.Service.ComissaoService",
-        "projectPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj",
+        "projectPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj",
         "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\obj\\",
+        "outputPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj": {
-                "projectPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj"
+              "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj": {
+                "projectPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Models\\Ademicon.Comissao.Models.csproj"
               }
             }
           }

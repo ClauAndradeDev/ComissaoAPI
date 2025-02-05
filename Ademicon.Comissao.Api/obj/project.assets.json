@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Api\\Ademicon.Comissao.Api.csproj",
+      "projectUniqueName": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Api\\Ademicon.Comissao.Api.csproj",
       "projectName": "Ademicon.Comissao.Api",
-      "projectPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Api\\Ademicon.Comissao.Api.csproj",
+      "projectPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Api\\Ademicon.Comissao.Api.csproj",
       "packagesPath": "C:\\Users\\claud\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Api\\obj\\",
+      "outputPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -611,8 +611,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj": {
-              "projectPath": "c:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\Ademicon\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj"
+            "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj": {
+              "projectPath": "C:\\Users\\claud\\OneDrive\\Trabalhos extras 2025\\ComissaoAPI\\Ademicon.Comissao.Service.ComissaoService\\Ademicon.Comissao.Service.ComissaoService.csproj"
             }
           }
         }
